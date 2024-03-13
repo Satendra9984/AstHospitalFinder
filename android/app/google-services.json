@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "518250795313",
+    "project_id": "ast-nearby-hospital-finder",
+    "storage_bucket": "ast-nearby-hospital-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518250795313:android:22824b1653795afb22a010",
+        "android_client_info": {
+          "package_name": "com.example.nearby_hospital_locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518250795313-p0pqq49ikclqbosau9beaki4nkjfai4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nearby_hospital_locator",
+            "certificate_hash": "8d6ff3a393f7ae7b9b5d5374e9ded3d063210a5f"
+          }
+        },
+        {
+          "client_id": "518250795313-mratn2rik3r8n4s83aq067975e54kkbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0lO8BseFmjjjujdfW6b5uTO0r0eVQE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518250795313-mratn2rik3r8n4s83aq067975e54kkbj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518250795313-e3mqbo8dqigdne7psm42m8tddvg62ebq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearbyHospitalLocator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
